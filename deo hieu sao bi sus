@@ -1,0 +1,8 @@
+echo "# deo-hieu-sao-hotmail-bi-sus" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/adellpennyziaw/deo-hieu-sao-hotmail-bi-sus.git
+git push -u origin main
+That la vai ca loan
